@@ -4,15 +4,15 @@
   - Section: 1
   - Group: 1
   - Lecturer Name: Dr. Mohd Khairul Azmi Bin Hassan
-  - Date of Submission: 28/12/2023
+  - Date of Submission: 1/1/2024
   
 # NAME AND MATRIC NO.
 
-  1. Che Wan Sarah Najwa Binti Che Wan Ahmad (2117644)
-  2. Nor Ain Natashya Binti Hairi (2118124)
-  3. Siti Nur Idah Binti Roslan (2110174)
-  4. Nur Fathnin Ilhami Binti Mohamad Helmi (2124852)
-  5. Nor Hidayati Binti Munadi (2214282)
+  1. Nor Hidayati Binti Munadi (2214282)
+  2. Che Wan Sarah Najwa Binti Che Wan Ahmad (2117644)
+  3. Nor Ain Natashya Binti Hairi (2118124)
+  4. Siti Nur Idah Binti Roslan (2110174)
+  5. Nur Fathnin Ilhami Binti Mohamad Helmi (2124852)
   6. Aina Afifah Binti Azeri (2016178)
 
 # TITLE OF THE PROJECT 
@@ -24,14 +24,17 @@
   In a world where medical emergencies, accidents, and surgeries are an unavoidable part of life, access to a robust and efficient blood donation system is critical. 
   The importance of timely and secure blood donations cannot be overstated, as countless lives depend on this precious resource. Recognizing the vital role that technology 
   plays in enhancing healthcare services, we present our proposal for the development of Blood Bank Web Application. This innovative web application is designed to address 
-  the challenges faced by traditional blood banks, streamline the donation process, and ultimately save more lives.Our proposal encompasses a comprehensive approach, integrating 
+  the challenges faced by traditional blood banks, streamline the donation process, and ultimately save more lives. Our proposal encompasses a comprehensive approach, integrating 
   cutting-edge technologies to create a user-friendly platform that encourages blood donation, facilitates efficient inventory management, and provides immediate access to 
   blood supplies when and where they are needed the most.
 
 ## OBJECTIVE
+
+  The objective of Blood Bank Web Application is to develop an efficient donor management in healthcare service. This web application encompasses a comprehensive system that seamlessly     integrates with healthcare institutions to facilitate efficient collection, processing, storage, and distribution processes. Futhermore, this Blood Bank Web Application also implement    the features for real-time tracking of blood products, minimizing delays and ensuring timely responses to healthcare professionals' blood requests.
+
 ## FEATURES AND FUNCTIONALITY
 ## ENTITIY RELATIONAL DIAGRAM (ERD)
-![UML class](https://github.com/idahh02/README.md/assets/154742278/a9e169d4-a1b5-4294-b17a-460f32631256)
+ ![UML class](https://github.com/idahh02/README.md/assets/154742278/a9e169d4-a1b5-4294-b17a-460f32631256)
 
 ## SEQUENCE DIAGRAM
 ![WAD Sequence Diagram-Donor drawio (1)](https://github.com/idahh02/README.md/assets/147692602/8936a436-7eca-4665-b710-cf4daab27b6a)
